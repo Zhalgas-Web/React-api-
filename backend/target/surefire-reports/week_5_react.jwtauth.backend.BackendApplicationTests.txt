@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: week_5_react.jwtauth.backend.BackendApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 12.322 s - in week_5_react.jwtauth.backend.BackendApplicationTests
